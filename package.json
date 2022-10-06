@@ -1,18 +1,18 @@
 {
   "name": "aa134-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "หวยlive✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"หวยlive",
-"สมัครเว็บหวยฮานอย",
-"lottovip app",
-"แทงหวยหุ้นออนไลน์",
-"โชคดีหวยออก"
-],
+  "version": "0.2.0",
+  "description": "หวยlive✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "หวยlive",
+    "สมัครเว็บหวยฮานอย",
+    "lottovip app",
+    "แทงหวยหุ้นออนไลน์",
+    "โชคดีหวยออก"
+  ],
   "repository": "https://github.com/setteebet/aa134-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
